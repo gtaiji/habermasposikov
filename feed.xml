@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+        >
+	<channel>
+		<title>Antiphon Gordon</title>
+		<atom:link href="https://static.fetsorn.website/" rel="self" type="application/rss+xml" />
+		<link>https://static.fetsorn.website</link>
+		<description>Antiphont Gordon - hash summist</description>
+		<lastBuildDate>Thu, 15 Dec 2022 16:14:04 +0000</lastBuildDate>
+		<language>en-US</language>
+		<item>
+			<title>PLATO</title>
+			<link>https://gateway.pinata.cloud/ipfs/Qmb6LzPMZFVLYqpXxubYR4yprsjxwgXjaxJQvXcjZdfjok</link>
+			<dc:creator>
+				<![CDATA[antiphongordon]]>
+			</dc:creator>
+			<pubDate>Thu, 8 Dec 2022 18:35:27 +0000</pubDate>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+			<guid isPermaLink="false">https://gateway.pinata.cloud/ipfs/Qmb6LzPMZFVLYqpXxubYR4yprsjxwgXjaxJQvXcjZdfjok</guid>
+			<description>
+				<![CDATA[<p>Exploration of old games and PLATO</p>
+]]>
+			</description>
+		</item>
+		<item>
+			<title>semja</title>
+			<link>https://gateway.pinata.cloud/ipfs/QmdyXRQE9VbLrAuJui83J5BzxXsxGx1XLS4EeYLGDg75tD</link>
+			<dc:creator>
+				<![CDATA[antiphongordon]]>
+			</dc:creator>
+			<pubDate>Thu, 15 Dec 2022 15:52:43 +0000</pubDate>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+			<guid isPermaLink="false">https://gateway.pinata.cloud/ipfs/QmdyXRQE9VbLrAuJui83J5BzxXsxGx1XLS4EeYLGDg75tD</guid>
+			<description>
+				<![CDATA[<p>bashlachev "semja"</p>]]>
+			</description>
+		</item>
+		<item>
+			<title>molitsa</title>
+			<link>https://gateway.pinata.cloud/ipfs/QmbL6jcWcjh26JSwtdGYdKpnDXhQWm8qAa9uxeFStKoGkn</link>
+			<dc:creator>
+				<![CDATA[antiphongordon]]>
+			</dc:creator>
+			<pubDate>Thu, 16 Dec 2022 00:04:43 +0000</pubDate>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+			<guid isPermaLink="false">https://gateway.pinata.cloud/ipfs/QmbL6jcWcjh26JSwtdGYdKpnDXhQWm8qAa9uxeFStKoGkn</guid>
+			<description>
+				<![CDATA[<p>voice: Antiphon Gordon, lyrics: Habermas Pösikov</p>]]>
+			</description>
+		</item>
+		<item>
+			<title>anykey</title>
+			<link>https://gateway.pinata.cloud/ipfs/QmUZAvnr3AoBkucAv1tSm1BTSbhAjGWCTRtA3czsUkD9Pu</link>
+			<dc:creator>
+				<![CDATA[antiphongordon]]>
+			</dc:creator>
+			<pubDate>Thu, 16 Dec 2022 00:08:00 +0000</pubDate>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+			<guid isPermaLink="false">https://gateway.pinata.cloud/ipfs/QmUZAvnr3AoBkucAv1tSm1BTSbhAjGWCTRtA3czsUkD9Pu</guid>
+			<description>
+				<![CDATA[<p>mix: Antiphon Gordon, voice and lyrics: Habermas Pösikov</p>]]>
+			</description>
+		</item>
+		<item>
+			<title>pastbische</title>
+			<link>https://gateway.pinata.cloud/ipfs/QmWqoP4ZjxecPxP8c4HSVEqAER644ScTsS6deL41ZM7oWH</link>
+			<dc:creator>
+				<![CDATA[antiphongordon]]>
+			</dc:creator>
+			<pubDate>Thu, 16 Dec 2022 00:11:00 +0000</pubDate>
+			<category>
+				<![CDATA[Uncategorized]]>
+			</category>
+			<guid isPermaLink="false">https://gateway.pinata.cloud/ipfs/QmWqoP4ZjxecPxP8c4HSVEqAER644ScTsS6deL41ZM7oWH</guid>
+			<description>
+				<![CDATA[<p>voice: Antiphon Gordon, lyrics: Habermas Pösikov</p>]]>
+			</description>
+		</item>
+	</channel>
+</rss>
