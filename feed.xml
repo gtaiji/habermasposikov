@@ -10,7 +10,7 @@
 	<channel>
 		<title>Habermas Pösikov</title>
 		<atom:link href="https://static.fetsorn.website/" rel="self" type="application/rss+xml" />
-		<link>https://static.fetsorn.website</link>
+		<link>https://github.com/gtaiji/habermasposikov</link>
 		<description>Habermas Pösikov</description>
 		<lastBuildDate>Thu, 15 Dec 2022 16:14:04 +0000</lastBuildDate>
 		<language>en-US</language>
@@ -18,7 +18,7 @@
 			<title>Caroll</title>
 			<link>https://hastebin.com/raw/ewihohebex</link>
 			<dc:creator>
-				<![CDATA[antiphongordon]]>
+				<![CDATA[habermaspösikov]]>
 			</dc:creator>
 			<pubDate>Thu, 17 Dec 2022 19:37:27 +0000</pubDate>
 			<category>
