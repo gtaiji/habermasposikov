@@ -1,4 +1,6 @@
-The felt-sense of coding
+The felt-sense of coding.
+
+Tribute to Antiphon Gordon.
 
 Dealing with the code reveals a few pivotal points of inherent beauty.
 1. Code can be interpreted as the life situation characterised by high precision of each act and intention. Compilation is hardly vague as it reflects the language patterns and executes the code as it is. The shift of meaning caused by interpretation is minimal (might be not the same for the natural languages). Machine will do what you say – what you’ve said indeed. It reveals unsaid word and unexpressed patterns. Typicality, replication and high precision of errors leaves an open space for felt sense right between the strings – before the face of compilation. Due to the high grade of honesty the process of working with code feels close to tuishou («pushing hands»).
